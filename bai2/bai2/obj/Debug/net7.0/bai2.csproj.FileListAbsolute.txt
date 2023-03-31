@@ -1,0 +1,15 @@
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/bin/Debug/net7.0/bai2
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/bin/Debug/net7.0/bai2.deps.json
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/bin/Debug/net7.0/bai2.runtimeconfig.json
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/bin/Debug/net7.0/bai2.dll
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/bin/Debug/net7.0/bai2.pdb
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/bai2.csproj.AssemblyReference.cache
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/bai2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/bai2.AssemblyInfoInputs.cache
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/bai2.AssemblyInfo.cs
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/bai2.csproj.CoreCompileInputs.cache
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/bai2.dll
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/refint/bai2.dll
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/bai2.pdb
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/bai2.genruntimeconfig.cache
+/Users/thanhnga/Desktop/Coding/Project/tuan 2/bai2/bai2/obj/Debug/net7.0/ref/bai2.dll
